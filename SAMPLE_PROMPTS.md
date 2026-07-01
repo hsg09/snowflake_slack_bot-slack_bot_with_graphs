@@ -14,7 +14,7 @@ Display the results in a tabular form here in Slack and create a bar chart showi
 
 Analyze which queries need optimization and provide specific recommendations for each (e.g., clustering keys, warehouse sizing, query rewriting).
 
-Send the detailed report to harneks@adobe.com
+Send the detailed report to my email
 ```
 
 ### 2. Cache Efficiency Analysis
@@ -27,7 +27,7 @@ Create a scatter plot showing bytes_scanned vs cache_hit_rate to identify patter
 
 Provide recommendations on how to improve cache utilization for these queries.
 
-Email the analysis to harneks@adobe.com
+Email the analysis to my email
 ```
 
 ### 3. Failed Query Analysis
@@ -38,7 +38,7 @@ Group the failures by error type and show the count for each in a table and pie 
 
 Identify the root causes and suggest fixes for the top 3 most common errors.
 
-Send the error report to harneks@adobe.com
+Send the error report to my email
 ```
 
 ### 4. User Query Patterns
@@ -49,7 +49,7 @@ Display in a table sorted by credits consumed and create a bar chart of the top 
 
 Identify users with inefficient query patterns and provide specific recommendations.
 
-Email the user analysis to harneks@adobe.com
+Email the user analysis to my email
 ```
 
 ### 5. Peak Load Analysis
@@ -62,7 +62,7 @@ Display the top 5 peak hours with query counts, average execution time, and ware
 
 Recommend optimal scheduling windows for heavy batch jobs.
 
-Send the load analysis to harneks@adobe.com
+Send the load analysis to my email
 ```
 
 ---
@@ -79,7 +79,7 @@ Identify warehouses with abnormally high cloud services charges and explain why 
 
 Provide cost optimization recommendations with expected savings.
 
-Email the cost analysis to harneks@adobe.com
+Email the cost analysis to my email
 ```
 
 ### 7. Month-over-Month Cost Comparison
@@ -90,7 +90,7 @@ Create a comparison table and a side-by-side bar chart for visualization.
 
 Identify the reasons for significant cost changes and suggest corrective actions.
 
-Send the cost comparison report to harneks@adobe.com
+Send the cost comparison report to my email
 ```
 
 ### 8. Warehouse Rightsizing Analysis
@@ -103,7 +103,7 @@ Recommend optimal warehouse sizes and auto-suspend configurations for each wareh
 
 Calculate potential cost savings from implementing these changes.
 
-Email the rightsizing recommendations to harneks@adobe.com
+Email the rightsizing recommendations to my email
 ```
 
 ### 9. Cost Anomaly Detection
@@ -116,7 +116,7 @@ Display in a table and create a line chart showing daily costs with anomalies hi
 
 Investigate root causes and suggest preventive measures.
 
-Send the anomaly report to harneks@adobe.com
+Send the anomaly report to my email
 ```
 
 ### 10. Warehouse Efficiency Ranking
@@ -127,7 +127,7 @@ Display in a table sorted by efficiency score and create a bar chart comparison.
 
 Identify the least efficient warehouses and provide specific optimization strategies.
 
-Email the efficiency ranking to harneks@adobe.com
+Email the efficiency ranking to my email
 ```
 
 ---
@@ -144,7 +144,7 @@ Identify tables that are growing rapidly and may need attention (partitioning, a
 
 Provide storage optimization recommendations.
 
-Send the storage report to harneks@adobe.com
+Send the storage report to my email
 ```
 
 ### 12. Clustering Effectiveness Audit
@@ -157,7 +157,7 @@ Create a scatter plot showing table size vs clustering depth.
 
 Prioritize which tables would benefit most from clustering and provide specific clustering key recommendations.
 
-Email the clustering audit to harneks@adobe.com
+Email the clustering audit to my email
 ```
 
 ### 13. Database Storage Distribution
@@ -170,7 +170,7 @@ Create a treemap visualization showing storage distribution.
 
 Identify databases or schemas that may need cleanup or archival policies.
 
-Send the storage distribution report to harneks@adobe.com
+Send the storage distribution report to my email
 ```
 
 ### 14. Stale Data Identification
@@ -183,7 +183,7 @@ Display in a table sorted by size and create a bar chart.
 
 Recommend which tables are candidates for archival or deletion.
 
-Email the stale data report to harneks@adobe.com
+Email the stale data report to my email
 ```
 
 ---
@@ -200,7 +200,7 @@ Create a bar chart showing task execution times and a separate chart for failure
 
 For tasks with failures, analyze the error patterns and suggest fixes.
 
-Send the ETL health report to harneks@adobe.com
+Send the ETL health report to my email
 ```
 
 ### 16. Task Performance Trends
@@ -213,7 +213,7 @@ Display the data in a table and create a line chart showing execution time trend
 
 Provide recommendations for optimizing slow or degrading tasks.
 
-Email the task performance analysis to harneks@adobe.com
+Email the task performance analysis to my email
 ```
 
 ### 17. Task Failure Investigation
@@ -226,7 +226,7 @@ Display in a table and create a bar chart of failures by task.
 
 Provide root cause analysis and specific fixes for recurring failures.
 
-Send the failure investigation to harneks@adobe.com
+Send the failure investigation to my email
 ```
 
 ### 18. Task Scheduling Optimization
@@ -239,7 +239,7 @@ Show task overlaps in a table and create a timeline visualization.
 
 Recommend optimal scheduling adjustments to reduce contention and improve performance.
 
-Email the scheduling optimization plan to harneks@adobe.com
+Email the scheduling optimization plan to my email
 ```
 
 ---
@@ -256,7 +256,7 @@ Identify teams with the highest cost growth and analyze the drivers.
 
 Suggest cost optimization opportunities for each team.
 
-Email the chargeback report to harneks@adobe.com
+Email the chargeback report to my email
 ```
 
 ### 20. Application Resource Usage
@@ -269,7 +269,7 @@ Identify applications with inefficient resource usage patterns (high credits, lo
 
 Provide application-specific optimization recommendations.
 
-Send the application usage report to harneks@adobe.com
+Send the application usage report to my email
 ```
 
 ### 21. Cost Center Trending
@@ -282,7 +282,7 @@ Identify cost centers exceeding budget and analyze the causes.
 
 Provide forecasts for next month based on current trends.
 
-Email the cost center report to harneks@adobe.com
+Email the cost center report to my email
 ```
 
 ---
@@ -304,7 +304,7 @@ Prioritize issues by impact (High/Medium/Low) and provide actionable recommendat
 
 Create an executive summary at the top.
 
-Email the full health check report to harneks@adobe.com
+Email the full health check report to my email
 ```
 
 ### 23. Cost Optimization Roadmap
@@ -323,7 +323,7 @@ Create a summary chart showing total potential savings by category.
 
 Provide specific implementation steps for the top 5 highest-impact optimizations.
 
-Send the optimization roadmap to harneks@adobe.com
+Send the optimization roadmap to my email
 ```
 
 ### 24. Weekly Performance Report
@@ -339,7 +339,7 @@ Display key metrics in tables and create trend charts for credits and query time
 
 Highlight items requiring immediate attention.
 
-Email the weekly report to harneks@adobe.com
+Email the weekly report to my email
 ```
 
 ### 25. Executive Dashboard Summary
@@ -358,7 +358,7 @@ Create summary charts for key trends.
 
 Provide 3 key action items for leadership attention.
 
-Email the executive summary to harneks@adobe.com
+Email the executive summary to my email
 ```
 
 ---
