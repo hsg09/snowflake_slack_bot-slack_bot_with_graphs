@@ -46,7 +46,7 @@ This project is built on top of the official [Snowflake Cortex Agents Quickstart
 
 1. **Clone the repository**
    ```bash
-   git clone git@git.corp.adobe.com:harneks/snowflake_slack_bot.git
+   git@github.com:hsg09/snowflake_slack_bot-slack_bot_with_graphs.git
    cd snowflake_slack_bot
    ```
 
